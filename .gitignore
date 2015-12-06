@@ -73,3 +73,5 @@ mongod
 *.njsproj
 *.sln
 .vscode
+
+.DS_Store
